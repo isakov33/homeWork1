@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hw2</string>
+    <string name="hello_there_welcome_back">hello there, welcome back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="start">Start</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="new_user_sign_up">New user? Sign up?</string>
+    <string name="todo">TODO</string>
+</resources>
